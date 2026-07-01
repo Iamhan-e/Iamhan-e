@@ -20,7 +20,6 @@
 <a href="https://codeforces.com/profile/hanlina"><img src="https://img.shields.io/badge/Codeforces-0B1120?style=for-the-badge&logo=codeforces&logoColor=5EEAD4" /></a>
 </p>
 
-<!-- Replace the # in the LinkedIn/Email/LeetCode/Codeforces badges above with your actual links -->
 
 ---
 
@@ -72,7 +71,7 @@ Inter-symbol interference simulator with an AI-assisted recommendations panel.
 </tr>
 </table>
 
-*(Links marked `#` — send me the repo URLs and I'll wire them in.)*
+
 
 ---
 
