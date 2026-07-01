@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Hi,%20I'm%20Liya%20👋&fontSize=42&fontColor=5EEAD4&animation=fadeIn&fontAlignY=38&desc=ECE%20%E2%86%92%20Software%20Engineering%20%2B%20Cybersecurity&descAlignY=58&descSize=18&descColor=94A3B8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Hi,%20I'm%20Hana%Aschalew%20👋&fontSize=42&fontColor=5EEAD4&animation=fadeIn&fontAlignY=38&desc=Electrical%Enginner%20%E2%86%92%20Software%20Engineering%20%2B%20Cybersecurity&descAlignY=58&descSize=18&descColor=94A3B8" />
 
 </div>
 
@@ -96,12 +96,12 @@ Inter-symbol interference simulator with an AI-assisted recommendations panel.
 ### 📊 Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Iamhan-e&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0B1120&title_color=5EEAD4&icon_color=5EEAD4&text_color=94A3B8" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Iamhan-e&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0B1120&title_color=5EEAD4&icon_color=5EEAD4&text_color=94A3B8" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamhan-e&hide_border=true&theme=dark&background=0B1120&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&text_color=94A3B8" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamhan-e&layout=compact&hide_border=true&theme=dark&bg_color=0B1120&title_color=5EEAD4&text_color=94A3B8" width="45%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Iamhan-e&layout=compact&hide_border=true&theme=dark&bg_color=0B1120&title_color=5EEAD4&text_color=94A3B8" width="45%" />
 </p>
 
 <div align="center">
