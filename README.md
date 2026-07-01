@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Hi,%20I'm%20Hana%Aschalew%20👋&fontSize=42&fontColor=5EEAD4&animation=fadeIn&fontAlignY=38&desc=Electrical%Enginner%20%E2%86%92%20Software%20Engineering%20%2B%20Cybersecurity&descAlignY=58&descSize=18&descColor=94A3B8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Hi,%20I'm%20Hana%20Aschalew%20👋&fontSize=42&fontColor=5EEAD4&animation=fadeIn&fontAlignY=38&desc=ECE%20%E2%86%92%20Software%20Engineering%20%2B%20Cybersecurity&descAlignY=58&descSize=18&descColor=94A3B8" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=4th-year+ECE+student+%40+AAiT;Communications+Systems+%E2%86%92+Full-Stack+%2B+Security;Building+Signal+Matrix+%2F+Telegram+Analyzer;A2SV+Competitive+Programmer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=4th-year+ECE+student+%40+AAiT;Communications+Systems+%E2%86%92+Full-Stack+%2B+Security;Embedded+Systems+%7C+Arduino+%2F+ESP32;Building+Signal+Matrix+%2F+Telegram+Analyzer;A2SV+Competitive+Programmer" />
 </p>
 
 ---
@@ -16,9 +16,11 @@
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" /></a>
 <a href="mailto:#"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=5EEAD4" /></a>
 <a href="https://github.com/Iamhan-e"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=5EEAD4" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-0B1120?style=for-the-badge&logo=leetcode&logoColor=5EEAD4" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Codeforces-0B1120?style=for-the-badge&logo=codeforces&logoColor=5EEAD4" /></a>
 </p>
 
-<!-- Replace the # in the LinkedIn/Email badges above with your actual links -->
+<!-- Replace the # in the LinkedIn/Email/LeetCode/Codeforces badges above with your actual links -->
 
 ---
 
