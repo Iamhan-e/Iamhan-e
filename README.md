@@ -13,11 +13,11 @@
 ### 🔗 Connect with me
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" /></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=5EEAD4" /></a>
+<a href="https://www.linkedin.com/in/hana-aschalew-b60801286/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" /></a>
+<a href="mailto:h2anaschalew@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=5EEAD4" /></a>
 <a href="https://github.com/Iamhan-e"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=5EEAD4" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-0B1120?style=for-the-badge&logo=leetcode&logoColor=5EEAD4" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Codeforces-0B1120?style=for-the-badge&logo=codeforces&logoColor=5EEAD4" /></a>
+<a href="https://leetcode.com/u/hanlina/"><img src="https://img.shields.io/badge/LeetCode-0B1120?style=for-the-badge&logo=leetcode&logoColor=5EEAD4" /></a>
+<a href="https://codeforces.com/profile/hanlina"><img src="https://img.shields.io/badge/Codeforces-0B1120?style=for-the-badge&logo=codeforces&logoColor=5EEAD4" /></a>
 </p>
 
 <!-- Replace the # in the LinkedIn/Email/LeetCode/Codeforces badges above with your actual links -->
